@@ -1,3 +1,5 @@
+# CREDITS TO AMA6NEN ORIGINAL REPO: https://github.com/ama6nen/GTAdblock
+
 # Growtopia Ad blocker
 Growtopia Ad blocker for disabling ads in weather background (billboards, airplanes) and in ad blocks.
 
