@@ -1,0 +1,6 @@
+LIBRARY   SecureEngineSDK64
+EXPORTS
+	CustomVM00000103_Start @103
+	CustomVM00000103_End @503
+	CustomVM00000109_Start @109
+	CustomVM00000109_End @509
